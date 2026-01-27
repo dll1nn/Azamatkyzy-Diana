@@ -1,3 +1,2 @@
-x = 2
-y = 5
-print(x + y)
+name = input()
+print(f"Hello, {name}!")
